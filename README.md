@@ -25,6 +25,7 @@ To run the tests for a specific exercise, navigate to the exercise directory in 
 
 ```bash
 pytest exercise_name_test.py
+```
 
 ## Feedback
 If you have any suggestions, improvements, or alternative approaches for these solutions, feel free to open an issue or submit a pull request!
